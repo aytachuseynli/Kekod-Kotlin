@@ -4,7 +4,19 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e00608d9-4a60-413b-8525-e3c0a011ec9d" name="Changes" comment="" />
+    <list default="true" id="e00608d9-4a60-413b-8525-e3c0a011ec9d" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/loop/1-Loops-For.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/loop/2-Loops-While.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/basics/1.Numbers.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/basics/1.Numbers.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/basics/2.TypeConversion.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/basics/2.TypeConversion.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/basics/5-Arrays.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/basics/5-Arrays.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/basics/6-Strings.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/basics/6-Strings.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/basics/7-Range.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/basics/7-Range.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/classes/Encapsulation.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/classes/Encapsulation.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/classes/Inheritance.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/classes/Inheritance.kt" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -15,29 +27,93 @@
       <ProjectState />
     </projectState>
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Kotlin Class" />
+        <option value="Kotlin File" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 7
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
   <component name="ProjectId" id="2dYAnzoFOPTKabrg9eOKfFJm1ON" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "kotlin-language-version-configured": "true",
-    "nodejs_package_manager_path": "npm",
-    "onboarding.tips.debug.path": "C:/Users/Aytac/OneDrive/Desktop/KeKod-Kotlin/Kokod-Kotlin-Dersleri/src/main/kotlin/Main.kt",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;Gradle.Build Kokod-Kotlin-Dersleri.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin._1_Hello_WorldKt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin._1_NumbersKt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin._2_TypeConversionKt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin._4_CharactersKt.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/Aytac/OneDrive/Desktop/KeKod-Kotlin/Kokod-Kotlin-Dersleri/src/main/kotlin/Main.kt&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Aytac\OneDrive\Desktop\KeKod-Kotlin\Kokod-Kotlin-Dersleri\src\main\kotlin\basics" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Kotlin._3_CharactersKt">
+    <configuration name="Hello_WorldKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.aytachuseynli.basics.Hello_WorldKt" />
+      <module name="Kokod-Kotlin-Dersleri.main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="_1_NumbersKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.aytachuseynli.basics._1_NumbersKt" />
+      <module name="Kokod-Kotlin-Dersleri.main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="_2_TypeConversionKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.aytachuseynli.basics._2_TypeConversionKt" />
+      <module name="Kokod-Kotlin-Dersleri.main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="_3_CharactersKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.aytachuseynli.basics._3_CharactersKt" />
+      <module name="Kokod-Kotlin-Dersleri.main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Kotlin._3_CharactersKt" />
+        <item itemvalue="Kotlin._2_TypeConversionKt" />
+        <item itemvalue="Kotlin._1_NumbersKt" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -46,22 +122,31 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1710174815219</updated>
-      <workItem from="1710174816729" duration="4000" />
+      <workItem from="1710174816729" duration="42000" />
+      <workItem from="1710174880421" duration="14909000" />
+      <workItem from="1711402252388" duration="4183000" />
+      <workItem from="1711550760314" duration="282000" />
+      <workItem from="1711551444754" duration="650000" />
+      <workItem from="1711575878372" duration="63000" />
+      <workItem from="1711887253887" duration="20393000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="kotlin-line">
-          <url>file://$PROJECT_DIR$/src/main/kotlin/Main.kt</url>
-          <line>13</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
 </project>
