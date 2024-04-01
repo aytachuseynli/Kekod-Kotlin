@@ -112,8 +112,14 @@ fun main() {
      */
 
 
+    val bitValue  = 0b00100101   //bitValue: 37
+    val bitValue2 = 0b10110011   //bitValue2: 179
 
+    val resultAndBit = bitValue.and(bitValue2) //bitValue && bitValue2
+    println(resultAndBit) // 0b00100001  resultBit: 33
 
+    val resultOrBit = bitValue.or(bitValue2) //bitValue && bitValue2
+    println(resultOrBit) // 0b10110111  resultBit: 183
 
 
 
