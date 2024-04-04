@@ -4,7 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e00608d9-4a60-413b-8525-e3c0a011ec9d" name="Changes" comment="Updated numbers" />
+    <list default="true" id="e00608d9-4a60-413b-8525-e3c0a011ec9d" name="Changes" comment="Updated workspace.xml">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/functions/1-Basics.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/functions/1-Basics.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/functions/2-InfixFunction.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/functions/2-InfixFunction.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/functions/5-HigherOrderFunctions.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/functions/5-HigherOrderFunctions.kt" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -26,12 +31,12 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "aytachuseynli"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;aytachuseynli&quot;
   }
-}]]></component>
+}</component>
   <component name="GithubPullRequestsUISettings">
     <option name="selectedUrlAndAccountId">
       <UrlAndAccount>
@@ -131,7 +136,10 @@
       <workItem from="1711550760314" duration="282000" />
       <workItem from="1711551444754" duration="650000" />
       <workItem from="1711575878372" duration="63000" />
-      <workItem from="1711887253887" duration="26652000" />
+      <workItem from="1711887253887" duration="26703000" />
+      <workItem from="1712172257540" duration="3011000" />
+      <workItem from="1712233685218" duration="4386000" />
+      <workItem from="1712257419656" duration="6672000" />
     </task>
     <task id="LOCAL-00001" summary="Initial commit">
       <option name="closed" value="true" />
@@ -173,7 +181,15 @@
       <option name="project" value="LOCAL" />
       <updated>1711933200265</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Updated workspace.xml">
+      <option name="closed" value="true" />
+      <created>1711933222464</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1711933222464</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -196,6 +212,7 @@
     <MESSAGE value="Added loops" />
     <MESSAGE value="Added functions" />
     <MESSAGE value="Updated numbers" />
-    <option name="LAST_COMMIT_MESSAGE" value="Updated numbers" />
+    <MESSAGE value="Updated workspace.xml" />
+    <option name="LAST_COMMIT_MESSAGE" value="Updated workspace.xml" />
   </component>
 </project>
